@@ -2,9 +2,9 @@
 
 ## Description
 This app provides a team profile based on user input that will allow users to create their own team.
-Most of the app is based on a command line interface (cli) that gives the user a way to inteact with the app.
+Most of the app is based on a command line interface (CLI) that gives the user a way to inteact with the app.
 The app will display the selected input from the user in a basic html file.
-Developing this app allowed me to learn how to make the use of cli in developing an app.
+Developing this app allowed me to learn how to make the use of CLI in developing an app.
 
 ## Installation
 The app needs node modules and npm jest and npm inquirer.
