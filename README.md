@@ -16,7 +16,7 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 The app will generate a html file where the team will be displayed.
 A screenshot of the html file is like this:
-![HTML-page](/assets/14-object-oriented-programming-challenge-demo.png)
+![HTML-page](/assets/screenshot-team-profile-generator.png)
 
 ## License
 This uses a MIT License.
